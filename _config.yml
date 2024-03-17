@@ -11,7 +11,7 @@ github_repo: "https://gitee.com/spaceagi/spaceagi.gitee.io" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "God helps those who help themselves!"
+sidebar-about-description: "点击头像了解我"
 sidebar-avatar: /img/99c45b3e4309b9a3448ee3c295aea865.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
