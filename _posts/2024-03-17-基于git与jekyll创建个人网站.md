@@ -1,6 +1,6 @@
-title: Java HashMap工作原理及实现
+title: 基于git与jekyll创建个人网站
 tags:
-  - Java
+  - git
 number: 7
 ---
 
